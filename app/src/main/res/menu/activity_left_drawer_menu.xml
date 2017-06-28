@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<group android:checkableBehavior="single">-->
+    <item
+        android:id="@+id/channel_setting"
+        android:icon="@drawable/ic_icon_chan_setting"
+        android:title="通道设置"/>
+
+    <item
+        android:id="@+id/acquistion_setting"
+        android:icon="@drawable/ic_icon_acqui_setting"
+        android:title="采集设置"/>
+
+    <item
+        android:id="@+id/analysis_setting"
+        android:icon="@drawable/ic_icon_analy_setting"
+        android:title="分析设置"/>
+
+    <item
+        android:id="@+id/display_setting"
+        android:icon="@drawable/ic_icon_dispaly_setting"
+        android:title="显示设置"/>
+    <!--</group>-->
+</menu>
